@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://socefi.github.io/handbook-s7dgh4/sitemap.xml
